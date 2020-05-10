@@ -1,0 +1,20 @@
+.footer-content{
+    display: -webkit-flex;
+   display: flex;
+   -webkit-flex-wrap: wrap;
+   flex-wrap: wrap;
+   margin: 0 auto;
+   width: 60%;
+}
+
+.footer-content section {
+display: -webkit-flex;
+   display: flex;
+   width: 100%;
+   margin: 0 auto;
+   margin-top: 10%;
+}
+
+.footer-content p{
+    width: 90%;
+}

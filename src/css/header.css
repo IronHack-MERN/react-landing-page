@@ -1,0 +1,40 @@
+.header-container{
+    background-image: url('../images/react-logo.svg');
+    background-color: #1F2535;
+    width: 50%;
+    margin: 0 auto;
+    padding: 5%;
+}
+
+.header-container h1{
+    color: white;
+    font-size: 5rem;
+}
+.header-container p {
+    color: #646873;
+    font-size: 1.5rem;
+    margin-bottom: 10%;
+}
+
+.header-container button {
+    background-color: #FFFFFF;
+    padding: 2%;
+    font-size: 1rem;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+}
+
+.imgLeft{
+    float: left;
+    max-height: 50px;
+}
+
+.imgRight{
+    float: right;
+}
+
+.header-top{
+    margin-bottom: 15%;
+}

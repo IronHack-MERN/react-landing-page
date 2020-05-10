@@ -13,7 +13,13 @@
   }
 }
 
+.welcome-content{
+  color: red;
+}
+
 .App-header {
+  width: 50%;
+  margin: 0 auto;
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
