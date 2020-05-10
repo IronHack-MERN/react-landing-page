@@ -1,3 +1,5 @@
+# Landing page with React.js
+
 ## Description
 Project with React.js showing a SPA with 3 components
 
